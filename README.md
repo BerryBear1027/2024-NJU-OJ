@@ -1,2 +1,4 @@
 # 2024-NJU-OJ
-To upload my own answer to OJ homework.Welcome any ideas and comment!!
+Not much short,but for sure correct.
+Connected with Nanjing University CPL OJ homework.
+To upload my own answers to OJ homework.Welcome any ideas and comment!!
